@@ -6,8 +6,10 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
    Credits: Kaggle
 ### Problem Statement :
 Identify which questions asked on Quora are duplicates of questions that have already been asked.
+### Types of ML Problem :
+Binary class classification problem.
 
-### Data set :
+### DATASET :
 - Data set is collected from kaggle.[Link](https://www.kaggle.com/c/quora-question-pairs/data)
 Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate. Total we have 404290 entries. Splitted data into train and test with 70% and 30%.
 
